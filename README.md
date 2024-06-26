@@ -68,3 +68,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# React Charting Application
+
+This is a React.js application that displays a chart using the Recharts library. The chart supports timeframe breakdown, zooming, and interactive click events. Chart data is provided in JSON format.
+
+## Features
+
+- Display chart using Recharts library.
+- Timeframe breakdown (daily, weekly, monthly).
+- Timeframe zooming.
+- Interactive click events on data points.
+- Export chart as PNG.
+
+## Installation
+
+-Installation of Recharts library
+-Also html2Canvas
+
+### Prerequisites
+
+- Node.js
+- npm 
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
